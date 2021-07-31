@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Muhammad Wahaj Mubeen
-- 👀 I’m interested in Web development, specifically in MERN Stack Development.
-- 🌱 I’m currently learning MERN stack.
-- 💞️ I’m looking to collaborate on React projects.
+- 👋 Hi, I’m Muhammad Wahaj Mubeen.
+- 👀 I’m interested in Web development & android development, specifically in MERN Stack Development.
+- 🌱 I’m currently working as app developer. Always willing and intrested to learn new things.
+- 💞️ I’m looking to collaborate in React & android projects.
 - 📫 You can reach me at iwahajmubeen341@gmail.com
 
 <!---
