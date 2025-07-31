@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad Wahaj Mubeen.
-- 👀 I’m interested in App development & web development.
-- 🌱 I’m currently working as an app developer along with maintiaining some REACT based projects as well. I'm Always willing and intrested to learn new things.
-- 💞️ I’m looking to collaborate in mobile apps & web projects.
+- 👀 I’m a professional android app developer having expertise in both Java & Kotlin.
+- 🌱 I’m currently working as an Assistant Manager Software Engineering. I'm Always willing and intrested to learn new things.
+- 💞️ I’m looking to collaborate in mobile apps & backend projects as well.
 - 📫 You can reach me at iwahajmubeen341@gmail.com
 
 <!---
