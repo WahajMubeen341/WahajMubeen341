@@ -7,7 +7,7 @@
   <a href="mailto:iwahajmubeen341@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin-profile" target="https://www.linkedin.com/in/wahajmubeen341/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
   </a>
 </p>
@@ -41,15 +41,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahajMubeen&show_icons=true&theme=tokyonight" alt="Wahaj's GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahajMubeen&theme=tokyonight" alt="Wahaj's streak stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WahajMubeen341&show_icons=true&theme=tokyonight" alt="Wahaj's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahajMubeen341&theme=tokyonight" alt="Wahaj's streak stats" height="160" />
 </p>
 
 ---
 
 ### 🐍 My GitHub Activity Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WahajMubeen/WahajMubeen/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/WahajMubeen341/WahajMubeen341/output/snake.svg" />
 </p>
 
 ---
