@@ -42,21 +42,21 @@
 ### 📈 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=WahajMubeen&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" 
+    src="https://github-readme-stats.vercel.app/api?username=WahajMubeen341&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" 
     alt="Wahaj's GitHub stats" 
     height="160" 
   />
 </p>
   <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahajMubeen&layout=compact&theme=tokyonight&langs_count=8&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahajMubeen341&layout=compact&theme=tokyonight&langs_count=8&count_private=true" 
     alt="Top Languages" 
     height="160" 
   />
 </p>
   <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahajMubeen&layout=compact&theme=tokyonight&langs_count=8&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahajMubeen341&layout=compact&theme=tokyonight&langs_count=8&count_private=true" 
     alt="Top Languages" 
     height="160" 
   />
