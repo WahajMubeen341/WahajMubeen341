@@ -41,11 +41,11 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img 
+  <!-- <img 
     src="https://github-readme-stats.vercel.app/api?username=WahajMubeen341&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" 
     alt="Wahaj's GitHub stats" 
     height="160" 
-  />
+  /> -->
 
  
   <img 
