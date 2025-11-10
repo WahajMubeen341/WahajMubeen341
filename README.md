@@ -46,15 +46,15 @@
     alt="Wahaj's GitHub stats" 
     height="160" 
   />
-</p>
-  <p align="center">
+
+ 
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahajMubeen341&layout=compact&theme=tokyonight&langs_count=8&count_private=true" 
-    alt="Top Languages" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=WahajMubeen341&theme=tokyonight&hide_border=false" 
+    alt="Wahaj's GitHub streak stats" 
     height="160" 
   />
-</p>
-  <p align="center">
+
+ 
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahajMubeen341&layout=compact&theme=tokyonight&langs_count=8&count_private=true" 
     alt="Top Languages" 
