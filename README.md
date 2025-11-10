@@ -41,15 +41,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahajMubeen341&show_icons=true&theme=tokyonight" alt="Wahaj's GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahajMubeen341&theme=tokyonight" alt="Wahaj's streak stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=WahajMubeen&show_icons=true&theme=tokyonight" alt="Wahaj's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahajMubeen&theme=tokyonight" alt="Wahaj's streak stats" height="160" />
 </p>
 
 ---
 
 ### 🐍 My GitHub Activity Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WahajMubeen341/WahajMubeen341/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/WahajMubeen341/WahajMubeen/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
