@@ -41,9 +41,25 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WahajMubeen341&show_icons=true&theme=tokyonight" alt="Wahaj's GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WahajMubeen341&theme=tokyonight" alt="Wahaj's streak stats" height="160" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=WahajMubeen341&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&cache_seconds=1800" 
+    alt="Wahaj's GitHub stats" 
+    height="160" 
+  /><p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=WahajMubeen3141&layout=compact&theme=tokyonight&langs_count=8&count_private=true" 
+    alt="Top Languages" 
+    height="160" 
+  />
 </p>
+
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=WahajMubeen341&theme=tokyonight&hide_border=false" 
+    alt="Wahaj's GitHub streak stats" 
+    height="160" 
+  />
+</p>
+
 
 ---
 
