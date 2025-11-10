@@ -68,7 +68,7 @@
 
 ### 🐍 My GitHub Activity Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WahajMubeen341/WahajMubeen341/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/WahajMubeen/WahajMubeen/output/snake.svg" alt="Snake animation" />
 </p>
 
 ---
