@@ -16,11 +16,11 @@
 
 ### 🧩 About Me
 - 👋 Hi, I’m **Muhammad Wahaj Mubeen**  
-- 💼 Working as **Assistant Manager Software Engineering**  
-- 👨‍💻 Experienced in **Android app development (Kotlin & Java)**  
+- 💼 Working as **Deputy Manager Software Engineering**  
+- 👨‍💻 Experienced in **Mobile app development (Android / Flutter)**  
 - 🌱 Passionate about learning new technologies like **Jetpack Compose**, **AI integration**, and **Socket.IO**  
-- 💬 Ask me about anything Android — I love to share and collaborate  
-- 💞️ Looking to collaborate on **mobile apps & backend projects**  
+- 💬 Ask me about Products — I love to share and collaborate  
+- 💞️ Looking to collaborate on **Any kind of procducts**  
 - 📫 Reach me at **[iwahajmubeen341@gmail.com](mailto:iwahajmubeen341@gmail.com)**  
 
 ---
