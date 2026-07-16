@@ -1,7 +1,7 @@
 <!-- Your GitHub Profile README -->
 
 <h1 align="center">Hi 👋, I'm Muhammad Wahaj Mubeen</h1>
-<h3 align="center">🚀 Assistant Manager – Software Engineering | Android Developer (Kotlin & Java)</h3>
+<h3 align="center">🚀 Deputy Manager – Software Engineering | Mobile Developer (Android & Flutter)</h3>
 
 <p align="center">
   <a href="mailto:iwahajmubeen341@gmail.com">
